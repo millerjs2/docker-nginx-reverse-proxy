@@ -1,6 +1,6 @@
 # Docker image for setting up nginx as a reverse proxy.
 
-Verified to work with KanBoard v1.0.31
+Pretty bare bones, and there are better alternatives, but I wanted to make one just for fun.
 
 ### Usage
 
