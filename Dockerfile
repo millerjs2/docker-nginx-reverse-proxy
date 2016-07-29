@@ -9,8 +9,8 @@ RUN apk add --no-cache \
 ADD nginx.conf /etc/nginx
 
 # add back end sites
-ADD site1.conf /etc/nginx/sites-enabled
-ADD site2.conf /etc/nginx/sites-enabled
+ADD site1.conf /
+ADD site2.conf /
 
 # make the run script executable
 RUN chmod +x /run.sh
