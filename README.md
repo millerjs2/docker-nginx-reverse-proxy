@@ -2,6 +2,8 @@
 
 Pretty bare bones, and there are better alternatives, but I wanted to make one just for fun.
 
+Currently doesn't work right, on indefinite hold. Will revisit later...
+
 ### Usage
 
 Configure entries for sites-enabled (see examples)
